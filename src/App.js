@@ -11,7 +11,7 @@ class App extends Component {
     this.state = {
       flats: [],
       allFlats: [],
-      selectedFlat: null,
+      selectedFlat: null, 
       search: ""
     };
   }
